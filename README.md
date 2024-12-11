@@ -23,4 +23,4 @@ The SRMS Project is a comprehensive system designed for managing student registr
 The system utilizes custom-designed dialog boxes for improved user interaction and visual appeal.
 
 ## Contact
-For any questions or issues, please contact mahesh.kakde.165@gmail.com."# srms-project" 
+For any questions or issues, please contact mahesh.kakde.165@gmail.com.
